@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <body style="background-color:yellow;">
+      <h1 style="color:white;">Zachiah Zook's Interests</h1>
+      <img src="https://lh6.googleusercontent.com/QtfUlw_yYAgEwFBzVIr_PlqgiU00v118NDeAAFrrmVcOTvYVy2P1e5WUltrjIvSqqokt7--fj6iG1uixGIlQPJfP0PUA7_d-awVxtfWasn0ER4yvjPjIaASQhcFuOFK45P76Y0v5">
+      <p style="color:white;">
+       
+      </p>
+      <a href="https://Zachiahs-Bio.zakhazook1.repl.co">Next Page</a>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>
