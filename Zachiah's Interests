@@ -8,9 +8,9 @@
       <h1 style="color:white;">Zachiah Zook's Interests</h1>
       <img src="https://lh6.googleusercontent.com/QtfUlw_yYAgEwFBzVIr_PlqgiU00v118NDeAAFrrmVcOTvYVy2P1e5WUltrjIvSqqokt7--fj6iG1uixGIlQPJfP0PUA7_d-awVxtfWasn0ER4yvjPjIaASQhcFuOFK45P76Y0v5">
       <p style="color:white;">
-       Along with the activities I mentioned earlier, here is a table of many of my interests.
+       Along with the activities I mentioned earlier, here is a table of many of my interests. (Above-One of the many pictures I took on trip with my classmates to the harbor.)
       </p>
-      <table style="width:100%">
+      <table style="color:white;">
   <tr>
     <th>Indoor</th>
     <th>Outdoor</th>
@@ -32,7 +32,7 @@
     <td>Minecraft</td>
   </tr>
 </table>
-      <a href="https://Zachiahs-Bio.zakhazook1.repl.co">Next Page</a>
+      <a href="https://Zachiahs-Bio.zakhazook1.repl.co">Go  Back</a>
 
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
