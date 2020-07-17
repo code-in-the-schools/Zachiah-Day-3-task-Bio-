@@ -8,8 +8,30 @@
       <h1 style="color:white;">Zachiah Zook's Interests</h1>
       <img src="https://lh6.googleusercontent.com/QtfUlw_yYAgEwFBzVIr_PlqgiU00v118NDeAAFrrmVcOTvYVy2P1e5WUltrjIvSqqokt7--fj6iG1uixGIlQPJfP0PUA7_d-awVxtfWasn0ER4yvjPjIaASQhcFuOFK45P76Y0v5">
       <p style="color:white;">
-       
+       Along with the activities I mentioned earlier, here is a table of many of my interests.
       </p>
+      <table style="width:100%">
+  <tr>
+    <th>Indoor</th>
+    <th>Outdoor</th>
+    <th>Online</th>
+  </tr>
+  <tr>
+    <td>Reading</td>
+    <td>Tennis</td>
+    <td>Video-Calling</td>
+  </tr>
+  <tr>
+    <td>DIY Crafting</td>
+    <td>Gardening</td>
+    <td>Taking Photos</td>
+  </tr>
+   <tr>
+    <td>Singing</td>
+    <td>Rock Climbing</td>
+    <td>Minecraft</td>
+  </tr>
+</table>
       <a href="https://Zachiahs-Bio.zakhazook1.repl.co">Next Page</a>
 
     <link href="style.css" rel="stylesheet" type="text/css" />
