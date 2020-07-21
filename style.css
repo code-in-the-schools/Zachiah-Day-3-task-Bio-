@@ -1,5 +1,6 @@
 body {
-  background-color:dodgerblue;
+  background-image: url("https://www.w3schools.com/css/img_mountains.jpg");
+  width:500px;
 }
 
 h1 {
@@ -8,13 +9,19 @@ h1 {
 }
 
 h3 {
-  color:black;
+  color:white;
   text-align:center;
+}
+
+div {
+  background-color:rgb (0,0,0);
 }
 
 p {
   font-family: serif;
-  font-size: 15px;
+  font-size: 14px;
   text-align: center;
-  color:black;
+  color:white;
+  width: 400px;
+  margin: auto;
 }
