@@ -2,8 +2,10 @@ body {
   background-image: url("https://www.w3schools.com/css/img_mountains.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 1200px
+  background-size: 1200px;
+  background-attachment: fixed;
 }
+
 
 h1 {
   color:black;
