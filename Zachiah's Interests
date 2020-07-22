@@ -4,13 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
-    <body style="background-color:teal;">
-      <h1 style="color:white;">Zachiah Zook's Interests</h1>
-      <img src="https://lh6.googleusercontent.com/QtfUlw_yYAgEwFBzVIr_PlqgiU00v118NDeAAFrrmVcOTvYVy2P1e5WUltrjIvSqqokt7--fj6iG1uixGIlQPJfP0PUA7_d-awVxtfWasn0ER4yvjPjIaASQhcFuOFK45P76Y0v5">
-      <p style="color:white;">
-       Along with the activities I mentioned earlier, here is a table of many of my interests. (Above-One of the many pictures I took on trip with my classmates to the harbor.)
+    <body>
+      <h1>Zachiah Zook's Interests</h1>
+     <center><img src="https://lh6.googleusercontent.com/37h9wK20w9SZvJhIawDN1HQOnmx86vLhITNBbqL3BSBK10YoRUWTFiRvIJ3L6HRYQ7wFwJCRgQUoEB8WIXJh3Mf4xwNO0Tbx5omlycsrw5RyvsqT2vNmOqDYxQolUsJD4hKiwRCQ">
+      <p>
+       Along with the activities I mentioned earlier, here is a table of many of my interests. (Above: One of the many pictures I took on trip with my classmates to the Inner Harbor.)
       </p>
-      <table style="color:white;">
+      <br>
+      <br>
+      <table style="background-color:darkturquoise;">
   <tr>
     <th>Indoor</th>
     <th>Outdoor</th>
@@ -19,7 +21,7 @@
   <tr>
     <td>Reading</td>
     <td>Tennis</td>
-    <td>Video-Calling</td>
+    <td>E-mailing</td>
   </tr>
   <tr>
     <td>DIY Crafting</td>
@@ -29,9 +31,45 @@
    <tr>
     <td>Singing</td>
     <td>Rock Climbing</td>
-    <td>Minecraft</td>
+    <td>Listening to Music</td>
+  </tr>
+    <tr>
+    <td>Organizing</td>
+    <td>Camping</td>
+    <td>Watching Movies</td>
   </tr>
 </table>
+<br>
+    <h2>More on My Favorite Hobbies</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuFai2YW3tOUTzm9iO7BM1BvsIRr-tQHc8AQ&usqp=CAU">
+    <br>
+    <div id="reading-section">
+     <h3>Reading</h3>
+    <p>
+     My favorite genre is historical fiction, especially of the 19th century, set in England or the American Prairie. My favorite authors of historical fiction are Charles Dickens and Jane Austen. I also love mysteries - from Sherlock Holmes and Agatha Christie to Nancy Drew.
+    </p>
+    </div>
+    <br>
+    <img src="https://decorating-hq.com/wp-content/uploads/30-crafts.ideas-to-sell.jpg">
+    <br>
+    <div id="diy-crafting">
+    <h3>DIY Crafting</h3>
+    <p>
+    I love sewing, knitting, crocheting, jewelry-making, weaving, origami, and so much more. I mostly use these skills to make practical things for myself and others, but I also love making gifts and costumes.  I also love learning new skills!
+    </p>
+    </div>
+    <br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlJ0sTOp6qxRtm5NEVT8-hDYhGqp4OArmT1w&usqp=CAU">
+    <div id="gardening-section">
+    <h3>Gardening</h3>
+    <p>
+    I've recently started gardening, and I'm having fun growing many plants. I'm growing flowers- which include daffodils, tulips, sunflowers, and tiger lilies, herbs, like basil and lavender, even vegetables like tomatoes!
+    </p>
+    </div>
+    <br>
+    <br>
+    <img src="https://gm1.ggpht.com/yND0_dNu9ghYh0N3FquDRTHItMWp_5KKsquzVJ8W13P8fLq0SlxZrB1XPKNOWYtg1IpWWUSri0GGEe2HB5_GlcISdRn-F7FjcvvjG9PMR9IDL__HMcPQByldkNgfuzIhzAaYx9ObV4pitsgIE0jqHkP808hAKMi9ekTY8jhcR7566TyGLZztONLdlSA-qCukVOZ-aVeRwTy3zIr9IoYXKCeIpm7YxrlLMH1RC42sjF4wdFel0GQjYDu344vWv2JV02W73QI2tMwejz0oZ7Z5B9VEJhdFirIOH48PJeo3uwZFIWS8bJFh_8ZC0t0adNUAKy-PYlmdXdyKOH87PmJw9Ub40rZZrF8VdG_VtOYqW6yqWIPYP8jY9Ktw41Zr1oEicTUKU6opVQ9A6wX_oBRIm3qXTY3876bGME4Nnk4OgnNIEwdhPC-F0S3iONWWO6VPLwbiD0eMeprVVZZ-z_z1ME863g5mhk6CWLo64HLLCH0tomnw-92OK41Kf6EWKlT1kSEbmPSivRhnO487aunhlDqrdrdj9Cs32FtHZT1QuVwxu4Kcg-ZaZw7T4BP08bj__KwDnHVsdxtoGNL2HS271iLxrn3wQqwOkPY8UDAIvRsW_DcsxzAtVYc-lj2xP29nq5y2ezgHP2EnWP5UM1FQ9HPky35shH5351eYHIE9xuXrbGySrWLRlwEg8lu7dqLfEr74o7DGNl4DhdJUPHemo7aMuAm1cGH70g1lDv0U4quBAZw1B3FGlH71HXS1s3ha-v8=s0-l75-ft-l75-ft">
+    <br>
       <a href="https://Zachiahs-Bio.zakhazook1.repl.co">Go  Back</a>
 
     <link href="style.css" rel="stylesheet" type="text/css" />
@@ -39,5 +77,51 @@
   <body>
     <script src="script.js"></script>
   </body>
-  
+   <head>
+	<style>
+		body {
+			background-color: teal;
+		}
+
+		h1 {
+			color: white;
+			text-align: center;
+		}
+
+    h3 {
+      color: silver;
+    }
+
+		p {
+      color: black;
+			font-family: georgia;
+			font-size: 15px;
+      width: 1000px;
+    }
+    
+    #reading-section {
+     border-style: solid;
+     border-color: tomato;
+    }
+
+    #diy-crafting {
+      border-style: solid;
+      border-color: aquamarine;
+      
+    }
+
+    #gardening-section {
+      border-style: solid;
+      border-color: dodgerblue;
+      
+    }
+
+    table {
+     font-family: serif;
+     font-size: 25px;
+     width: 1000px;
+    }
+
+	</style>
+</head>
 </html>
